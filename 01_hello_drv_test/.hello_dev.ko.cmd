@@ -1,0 +1,1 @@
+cmd_/home/book/Desktop/all_driver_test/01_hello_drv_test/hello_dev.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/Desktop/all_driver_test/01_hello_drv_test/hello_dev.ko /home/book/Desktop/all_driver_test/01_hello_drv_test/hello_dev.o /home/book/Desktop/all_driver_test/01_hello_drv_test/hello_dev.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_/home/book/Desktop/all_driver_test/01_hello_drv_test/built-in.o :=  rm -f /home/book/Desktop/all_driver_test/01_hello_drv_test/built-in.o; arm-buildroot-linux-gnueabihf-ar rcsD /home/book/Desktop/all_driver_test/01_hello_drv_test/built-in.o

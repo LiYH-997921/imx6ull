@@ -1,0 +1,3 @@
+/home/book/Desktop/all_driver_test/10_DHT11_test/gpio_drv.ko
+/home/book/Desktop/all_driver_test/10_DHT11_test/gpio_drv.o
+

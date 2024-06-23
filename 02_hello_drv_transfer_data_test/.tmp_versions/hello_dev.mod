@@ -1,0 +1,3 @@
+/home/book/Desktop/all_driver_test/02_hello_drv_transfer_data_test/hello_dev.ko
+/home/book/Desktop/all_driver_test/02_hello_drv_transfer_data_test/hello_dev.o
+

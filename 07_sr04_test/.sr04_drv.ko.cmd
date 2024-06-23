@@ -1,0 +1,1 @@
+cmd_/home/book/Desktop/all_driver_test/07_sr04_test/sr04_drv.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/Desktop/all_driver_test/07_sr04_test/sr04_drv.ko /home/book/Desktop/all_driver_test/07_sr04_test/sr04_drv.o /home/book/Desktop/all_driver_test/07_sr04_test/sr04_drv.mod.o ;  true

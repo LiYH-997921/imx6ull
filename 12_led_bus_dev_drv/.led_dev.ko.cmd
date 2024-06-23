@@ -1,0 +1,1 @@
+cmd_/home/book/Desktop/all_driver_test/12_led_bus_dev_drv/led_dev.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/Desktop/all_driver_test/12_led_bus_dev_drv/led_dev.ko /home/book/Desktop/all_driver_test/12_led_bus_dev_drv/led_dev.o /home/book/Desktop/all_driver_test/12_led_bus_dev_drv/led_dev.mod.o ;  true
